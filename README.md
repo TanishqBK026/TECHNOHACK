@@ -4,3 +4,6 @@ For many people living with disabilities, physical care is often seen as the fir
 This is a major problem because realistically how much does an individual really knows about disability? If you’re not disabled yourself, and don’t have a child, spouse, brother or sister, or parent with disabilities, how knowledgeable and up to date on disability issues are you expected to be?
 
 <img src="https://github.com/tanush122003/TECHNOHACK/blob/main/NeedOrLend/screenshots/Screenshot%20(6).png">
+# Hire: Need someone to care for your loved ones in your absence? You can do it from here
+# Volunteer/Donate: As the name suggests, donate or join our team
+# Worker's Net: A separate space for the workers
