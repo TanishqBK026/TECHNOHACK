@@ -4,15 +4,24 @@ For many people living with disabilities, physical care is often seen as the fir
 This is a major problem because realistically how much does an individual really knows about disability? If you’re not disabled yourself, and don’t have a child, spouse, brother or sister, or parent with disabilities, how knowledgeable and up to date on disability issues are you expected to be?
 
 <img src="https://github.com/tanush122003/TECHNOHACK/blob/main/NeedOrLend/screenshots/Screenshot%20(6).png">
+
+
 # Hire: Need someone to care for your loved ones in your absence? You can do it from here
+
 <img src="https://github.com/tanush122003/TECHNOHACK/blob/main/NeedOrLend/screenshots/Screenshot%20(7).png">
 <img src="https://github.com/tanush122003/TECHNOHACK/blob/main/NeedOrLend/screenshots/Screenshot%20(10).png">
 <img src="https://github.com/tanush122003/TECHNOHACK/blob/main/NeedOrLend/screenshots/Screenshot%20(8).png">
 <img src="https://github.com/tanush122003/TECHNOHACK/blob/main/NeedOrLend/screenshots/Screenshot%20(9).png">
+
+
 # Volunteer/Donate: As the name suggests, donate or join our team
+
 <img src="https://github.com/tanush122003/TECHNOHACK/blob/main/NeedOrLend/screenshots/Screenshot%20(11).png">
 <img src="https://github.com/tanush122003/TECHNOHACK/blob/main/NeedOrLend/screenshots/Screenshot%20(12).png">
+
+
 # Worker's Net: A separate space for the workers
+A restricted safe network just for the workers that uses an ML model to log you in
 <img src="https://github.com/tanush122003/TECHNOHACK/blob/main/NeedOrLend/screenshots/Screenshot%20(13).png">
 <img src="https://github.com/tanush122003/TECHNOHACK/blob/main/NeedOrLend/screenshots/abcd.png">
 <img src="https://github.com/tanush122003/TECHNOHACK/blob/main/NeedOrLend/screenshots/abcd1.png">
