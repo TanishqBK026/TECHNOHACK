@@ -5,5 +5,14 @@ This is a major problem because realistically how much does an individual really
 
 <img src="https://github.com/tanush122003/TECHNOHACK/blob/main/NeedOrLend/screenshots/Screenshot%20(6).png">
 # Hire: Need someone to care for your loved ones in your absence? You can do it from here
+<img src="https://github.com/tanush122003/TECHNOHACK/blob/main/NeedOrLend/screenshots/Screenshot%20(7).png">
+<img src="https://github.com/tanush122003/TECHNOHACK/blob/main/NeedOrLend/screenshots/Screenshot%20(10).png">
+<img src="https://github.com/tanush122003/TECHNOHACK/blob/main/NeedOrLend/screenshots/Screenshot%20(8).png">
+<img src="https://github.com/tanush122003/TECHNOHACK/blob/main/NeedOrLend/screenshots/Screenshot%20(9).png">
 # Volunteer/Donate: As the name suggests, donate or join our team
+<img src="https://github.com/tanush122003/TECHNOHACK/blob/main/NeedOrLend/screenshots/Screenshot%20(11).png">
+<img src="https://github.com/tanush122003/TECHNOHACK/blob/main/NeedOrLend/screenshots/Screenshot%20(12).png">
 # Worker's Net: A separate space for the workers
+<img src="https://github.com/tanush122003/TECHNOHACK/blob/main/NeedOrLend/screenshots/abcd.png">
+<img src="https://github.com/tanush122003/TECHNOHACK/blob/main/NeedOrLend/screenshots/abcd1.png">
+<img src="https://github.com/tanush122003/TECHNOHACK/blob/main/NeedOrLend/screenshots/Screenshot%20(14).png">
